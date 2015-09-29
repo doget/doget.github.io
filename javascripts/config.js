@@ -1,4 +1,4 @@
-var disqus_shortname = 'lis10';			//Short Name of disqus, this parameter is for disqus comment box.
+var disqus_shortname = 'doget';			//Short Name of disqus, this parameter is for disqus comment box.
 var hostbase = 'http://doget.github.io';		//The absolute root address of your blog without '/' in the end.
 var githubname = 'doget';						//Your username of GitHub.
 var repos = 'doget.github.io';					//Name of repository that contains your blog.
